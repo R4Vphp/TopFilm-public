@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="delete_icon.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.68149425"
+     inkscape:cx="389.63422"
+     inkscape:cy="526.42205"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1246"
+       style="fill:#000000;stroke-width:99.6004;stroke-linecap:square"
+       d="M 0,0 V 188.97656 H 755.90625 V 0 Z M 94.488281,27.414062 161.5625,94.488281 94.488281,161.5625 27.414062,94.488281 Z"
+       transform="scale(0.26458333)" />
+    <path
+       id="rect1246-4"
+       style="fill:#000000;stroke-width:26.3526;stroke-linecap:square"
+       d="m 2.5312501e-7,75 v 50.00005 H 200.00019 V 75 Z M 25.000024,82.253304 42.746744,100.00002 25.000024,117.74674 7.2533043,100.00002 Z" />
+    <path
+       id="rect1246-4-1"
+       style="fill:#000000;stroke-width:26.3526;stroke-linecap:square"
+       d="m -4e-6,150 v 50.00004 H 200.00019 V 150 Z M 25.00002,157.2533 42.74674,175.00001 25.00002,192.74673 7.2533,175.00001 Z" />
+  </g>
+</svg>
